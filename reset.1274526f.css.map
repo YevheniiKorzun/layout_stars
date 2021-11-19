@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AACA,iCAQE,QACF","file":"reset.1274526f.css","sourceRoot":"..\\src","sourcesContent":["\nhtml,\nbody,\na,\nimg,\nul,\nli,\nheader,\nnav {\n  margin: 0;\n}\n"]}
